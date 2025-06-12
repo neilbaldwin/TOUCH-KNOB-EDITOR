@@ -36,6 +36,7 @@ Starting from the top:
 ### SHAPE
 This section determines the geometry of the knob.
 
+> [!note]
 >#### `DIAMETER`
 >This sets the size of the knob. You can set the size anywhere between 5 and 100 pixels.
 >
