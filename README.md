@@ -107,5 +107,18 @@ For your convenience I added a special object inside of the knobs just for this 
 
 "Open" up the knob by double-clicking it. Inside the knob, at the top of the object stack is a Fader named "OUTPUT_FADER". This is the object you should add messages to or use the eyedropper to target local objecs (inside your project).
 
-![OUTPUT_FADER](/img/OUTPUT_FADER.png
-)
+![OUTPUT_FADER](/img/OUTPUT_FADER.png)
+
+### Summary
+
+I think that's about it!
+
+The code is fairly well commented so should be fairly easy to follow if you want to have a dig around or make your own modifications.
+
+### Usage
+
+Feel free to use the code or techniques however you like. If you appreciate my work or you find it useful or you've learned something from it, please consider buying my one of those digital coffees. A real one would be nice but this is the world we live in.
+
+<a href="https://www.buymeacoffee.com/neilbaldwi3" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;" ></a>
+
+:pray:
