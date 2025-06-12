@@ -33,8 +33,8 @@ Let's look again at the UI.
 
 Starting from the top:
 
-### `SHAPE`
-This section determines the geometry of the knob.
+> ### `SHAPE`
+> This section determines the geometry of the knob.
 
 #### `DIAMETER`
 This sets the size of the knob. You can set the size anywhere between 5 and 100 pixels.
