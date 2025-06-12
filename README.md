@@ -89,6 +89,10 @@ This sets the lightness of the hue. Move it all the way to the left for black or
 `SHADOW`
 This sets the brightness of the drop shadow and the shading on the side of the knob. All the way to the right makes the drop shadow transparent.
 
+### UI Orientation
+
+The `[LEFT|RIGHT]` button at the top-right of the editor window swaps which side the editor controls are on. Handy if you're left-handed. Or right-handed. Handy.
+
 ## I made an amazing knob, now what!?
 
 First the simple stuff: using your new fresh knob in your own projects.
