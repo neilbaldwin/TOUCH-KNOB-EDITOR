@@ -33,6 +33,8 @@ Let's look again at the UI.
 
 Starting from the top:
 
+---
+
 ### `SHAPE`
 This section determines the geometry of the knob.
 
