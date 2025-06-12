@@ -19,6 +19,6 @@ As a continuation of my ![Touch Knobs](https://github.com/neilbaldwin/TOUCH-KNOB
 * Shadow brightness
 * Control orientation (drag in X axis, Y axis or rotational axis)
 * Control response (speed/precision when dragging to change value)
-* Left or right-handed UI
+* Left or right-handed UI (editor option)
 
 
