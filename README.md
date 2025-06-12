@@ -21,4 +21,10 @@ As a continuation of my ![Touch Knobs](https://github.com/neilbaldwin/TOUCH-KNOB
 * Control response (speed/precision when dragging to change value)
 * Left or right-handed UI (editor option)
 
+## How do I get it?
+
+Just download the .tosc file, TOUCH-KNOB-EDITOR.tosc, open it in Touch OSC.
+
+## How do I use it?
+
 
