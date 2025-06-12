@@ -36,12 +36,11 @@ Starting from the top:
 ### SHAPE
 This section determines the geometry of the knob.
 
-> [!SHAPE]
->#### `DIAMETER`
->This sets the size of the knob. You can set the size anywhere between 5 and 100 pixels.
->
->#### `HEIGHT`
->This sets the height of the pseudo-3D aspect of the knob. The maximum height is limited by the Diameter of the knob. When the height is 0 the knob just appears *flat*
+`DIAMETER`
+This sets the size of the knob. You can set the size anywhere between 5 and 100 pixels.
+
+`HEIGHT`
+This sets the height of the pseudo-3D aspect of the knob. The maximum height is limited by the Diameter of the knob. When the height is 0 the knob just appears *flat*
 
 #### `POINTER SIZE`
 This sets the diamter or width of the knob pointer.
