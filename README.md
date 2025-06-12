@@ -33,7 +33,7 @@ Let's look again at the UI.
 
 Starting from the top:
 
-### SHAPE
+### `SHAPE`
 This section determines the geometry of the knob.
 
 `DIAMETER`
@@ -58,3 +58,27 @@ When on, a black circle is drawn around the base of the knob to give the impress
 When on, a pseudo-shadow is cast from the knob to emphasise the 3D look.
 
 ### `CONTROL`
+This section determins how the knob is controlled/moved.
+
+`ORIENTATION` The knob can be controlled (moved) in one of three ways: dragging in the X axis, the Y axis or using a rotational movement.
+
+`RESPONSE`
+This sets the relative response when you move/rotate the knon. Lower values give a slower but more accurate movement, higher values move the knob quicker but with less accuracy. This is also useful if you have a particularly large or small knob so that you can control the movement speed.
+
+### `COLOR`
+The controls in this section determine the various colors of the knob.
+
+`BODY/POINTER/OUTLINE`
+This is a selection radio button to choose which component of the knob you want to change the color of. `BODY` is the main colour, `POINTER` is the pointer color and `OUTLINE` is the colour of the outline (if enabled).
+
+`HUE`
+This selects the hue of the component. If the color behind the slider is black (or white, or grey) then you need to increase the Saturation and/or Lightness.
+
+`SATURATION`
+This sets the saturation level of the Hue. You can move this all the way to the left if you want a greyscale color.
+
+`LIGHTNESS`
+This sets the lightness of the hue. Move it all the way to the left for black or all the way to the right for white. And anywhere in between!
+
+`SHADOW`
+This sets the brightness of the drop shadow and the shading on the side of the knob. All the way to the right makes the drop shadow transparent.
