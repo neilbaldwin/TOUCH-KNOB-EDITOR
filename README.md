@@ -42,19 +42,19 @@ This sets the size of the knob. You can set the size anywhere between 5 and 100 
 `HEIGHT`
 This sets the height of the pseudo-3D aspect of the knob. The maximum height is limited by the Diameter of the knob. When the height is 0 the knob just appears *flat*
 
-#### `POINTER SIZE`
+`POINTER SIZE`
 This sets the diamter or width of the knob pointer.
 
-#### `POINTER LENGTH`
+`POINTER LENGTH`
 You can also extrude the Pointer to make a short line-style pointer. This sets the length. The maximum length is related to the Pointer Size.
 
-#### `OUTLINE`
+`OUTLINE`
 When on, a thing outline or stroke is drawn around the whole knob.
 
-#### `HOLE`
+`HOLE`
 When on, a black circle is drawn around the base of the knob to give the impression it appears out of a cutout hole.
 
-#### `DROP SHADOW`
+`DROP SHADOW`
 When on, a pseudo-shadow is cast from the knob to emphasise the 3D look.
 
 ### `CONTROL`
